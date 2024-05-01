@@ -116,20 +116,6 @@ Meanwhile, the software is protected by patent rights. If it is used for commerc
 <!-- At the same time, the software is protected by patent rights. If it is used for commercial purposes, such as using the software to make profits, selling the collected data, etc., please contact [Hangzhou Tianqin Intellectual Property Agency Co., Ltd.](http://www.tqip.com/) for patent authorization and other paid operations. -->
 
 
-## 答疑QQ群
-
-群号：**682921940**，建议通过Github提Issue的方式答疑，如果实在有需要才请加QQ群，因为群人数有上限，**QQ群不提供软件下载功能**。
-
-## 出版物/Publications
-
-- This software has been accepted by The Web Conference (WWW) 2023 (中国计算机学会顶级会议，CCF A): [EasySpider: A No-Code Visual System for Crawling the Web](https://dl.acm.org/doi/abs/10.1145/3543873.3587345), April 2023.
-
-- 中国国家知识产权局发明专利，[一种自定义提取流程的服务封装系统](media/patent.png)， 2022年5月。
-
-- [浙江大学硕士论文](https://d.wanfangdata.com.cn/thesis/Y3691829)，[面向WEB应用的智能化服务封装系统设计与实现](Docs/%E9%9D%A2%E5%90%91WEB%E5%BA%94%E7%94%A8%E7%9A%84%E6%99%BA%E8%83%BD%E5%8C%96%E6%9C%8D%E5%8A%A1%E5%B0%81%E8%A3%85%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)，2020年6月。
-<!-- - See the [Copyright Declaration Page](https://github.com/NaiboWang/EasySpider/blob/master/media/readme_back.md) here.
- -->
-
 ## 编译说明/Compilation Instructions
 
 查看[编译说明](ElectronJS/README.md)。
@@ -213,6 +199,3 @@ Refer to [Compilation Instructions](ElectronJS/README.md).
 
 
 
-<!-- ## Ethics Discussion
-Various fields can benefit from web crawlers due to their open access nature.
-Inevitably, there will be some risk of malicious use or data infringement issue, e.g., automatic order swiping and ticket grabbing, but this is contrary to our expectations. As a tool developer, we only hope that it can be used for legitimate purposes. We advocate the reasonable and legal utilization of our system, respecting and protecting the data security and privacy. -->
